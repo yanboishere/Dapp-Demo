@@ -1,0 +1,14 @@
+{
+    “name”：“my-project”，
+    “version”：“1.0.0”，
+    “scripts”：{
+    “dev”：“webpack-dev-server --mode development”，
+    “build”：“webpack --mode production”
+},
+“dependencies”：{
+// ...
+},
+“devDependencies”：{
+// ...
+}
+}
